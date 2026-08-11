@@ -1,0 +1,6 @@
+baseURL = 'https://github.com/Kreile/kreile.github.io'
+languageCode = "de"
+title = 'miu nov projekt da hugo'
+
+
+disableStatic = false

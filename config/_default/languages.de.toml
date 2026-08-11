@@ -1,0 +1,14 @@
+# config/_default/languages.en.toml
+
+title = "home"
+
+[params.author]
+name = "Giuachin Kreiliger"
+image = "img/author.jpg"
+avatar = "/img/author.jpg"
+headline = "Doctorand a l'Universitat da Turitg"
+bio = "A little bit about me"
+links = [
+  { bluesky = "https://bsky.app/profile/giuachin.bsky.social" }
+]
+
