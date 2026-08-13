@@ -1,2 +1,2 @@
-Ina ni l'autra infurmaziun e material d'instrucziun, veglias lavurs ed 
-inqual anecdota persunala anfleis Vus cheu
+Hallo!
+Hier finden sie Wissenswertes über mich, Links zu alten Arbeiten und Projekten und Neuigkeiten.
