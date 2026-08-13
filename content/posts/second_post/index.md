@@ -5,4 +5,10 @@ draft = true
 title = 'Kreatives Programmieren'
 +++
 
-{{< video src="static/videos/test.mp4" type="video/mp4">}}
+In meiner Freizeit programmiere ich gerne und arbeite an Visualisierungen. Unten habe ich zum Beispiel ein Animation gemacht, die 
+die Struktur und Häufigkeit von Wiederholungen in der Sprache verdeutlicht (die Sprachdaten sind aus dem [Manchester I 
+Child-directed Speech corpus](https://doi.org/10.1017/S0305000900004608)).
+
+{{< video src="/video.mp4" poster="/poster.jpeg" >}}
+
+Solche Animationen machen komplexe Sachverhalte einfach und verständlich. Ausserdem macht es ziemlich viel Spass.

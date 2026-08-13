@@ -6,8 +6,8 @@ title = "home"
 name = "Giuachin Kreiliger"
 image = "img/author.jpg"
 avatar = "/img/author.jpg"
-headline = "Doctorand a l'Universitat da Turitg"
-bio = "A little bit about me"
+headline = "Doktorand an der Universität Zürich"
+bio = "Wissenschaft, Statistik und Medien"
 links = [
   { bluesky = "https://bsky.app/profile/giuachin.bsky.social" }
 ]
