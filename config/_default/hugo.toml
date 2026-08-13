@@ -5,6 +5,3 @@ title = 'miu nov projekt da hugo'
 
 disableStatic = false
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
