@@ -92,7 +92,7 @@ jobs:
             git submodule update --init --recursive
           fi
 
-      - name: Cache restore
+     - name: Cache restore
         id: cache-restore
         uses: actions/cache/restore@v6
         with:
@@ -125,7 +125,6 @@ jobs:
     needs: build
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
