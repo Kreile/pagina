@@ -4,42 +4,19 @@
   
     
       <url>
-            <loc>http://localhost:1313/pagina/</loc>
-            <lastmod>2026-06-28T20:05:10+02:00</lastmod>
+            <loc>https://kreile.github.io/pagina/</loc>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/pagina/posts/</loc>
-            <lastmod>2026-06-28T20:05:10+02:00</lastmod>
+            <loc>https://kreile.github.io/pagina/about/</loc>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/pagina/posts/third_post/</loc>
-            <lastmod>2026-06-28T20:05:10+02:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/pagina/posts/second_post/</loc>
-            <lastmod>2026-06-28T20:05:10+02:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/pagina/posts/first_post/</loc>
-            <lastmod>2026-06-28T20:05:10+02:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/pagina/about/</loc>
+            <loc>https://kreile.github.io/pagina/posts/</loc>
           </url>
     
   
